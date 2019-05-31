@@ -1,0 +1,276 @@
+[submodule "__src__/OCB"]
+	path = __src__/OCB
+	url = https://github.com/OCA/OCB.git
+	branch = 12.0
+[submodule "__oca__/account-analytic"]
+	path = __oca__/account-analytic
+	url = https://github.com/OCA/account-analytic.git
+	branch = 12.0
+[submodule "__oca__/account-closing"]
+	path = __oca__/account-closing
+	url = https://github.com/OCA/account-closing.git
+	branch = 12.0
+[submodule "__oca__/account-financial-tools"]
+	path = __oca__/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+	branch = 12.0
+[submodule "__oca__/account-financial-reporting"]
+	path = __oca__/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 12.0
+[submodule "__oca__/account-fiscal-rule"]
+	path = __oca__/account-fiscal-rule
+	url = https://github.com/OCA/account-fiscal-rule.git
+	branch = 12.0
+[submodule "__oca__/account-invoicing"]
+	path = __oca__/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 12.0
+[submodule "__oca__/account-invoice-reporting"]
+	path = __oca__/account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+	branch = 12.0
+[submodule "__oca__/account-payment"]
+	path = __oca__/account-payment
+	url = https://github.com/OCA/account-payment.git
+	branch = 12.0
+[submodule "__oca__/account-reconcile"]
+	path = __oca__/account-reconcile
+	url = https://github.com/OCA/account-reconcile.git
+	branch = 12.0
+[submodule "__oca__/bank-payment"]
+	path = __oca__/bank-payment
+	url = https://github.com/OCA/bank-payment.git
+	branch = 12.0
+[submodule "__oca__/bank-statement-import"]
+	path = __oca__/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+	branch = 12.0
+[submodule "__oca__/business-requirement"]
+	path = __oca__/business-requirement
+	url = https://github.com/OCA/business-requirement.git
+	branch = 12.0
+[submodule "__oca__/commission"]
+	path = __oca__/commission
+	url = https://github.com/OCA/commission.git
+	branch = 12.0
+[submodule "__oca__/connector_telephony"]
+	path = __oca__/connector_telephony
+	url = https://github.com/OCA/connector-telephony.git
+	branch = 12.0
+[submodule "__oca__/contract"]
+	path = __oca__/contract
+	url = https://github.com/OCA/contract.git
+	branch = 12.0
+[submodule "__oca__/crm"]
+	path = __oca__/crm
+	url = https://github.com/OCA/crm.git
+	branch = 12.0
+[submodule "__oca__/delivery-carrier"]
+	path = __oca__/delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+	branch = 12.0
+[submodule "__oca__/e-commerce"]
+	path = __oca__/e-commerce
+	url = https://github.com/OCA/e-commerce.git
+	branch = 12.0
+[submodule "__oca__/edi"]
+	path = __oca__/edi
+	url = https://github.com/OCA/edi.git
+	branch = 12.0
+[submodule "__oca__/event"]
+	path = __oca__/event
+	url = https://github.com/OCA/event.git
+	branch = 12.0
+[submodule "__oca__/hr"]
+	path = __oca__/hr
+	url = https://github.com/OCA/hr.git
+	branch = 12.0
+[submodule "__oca__/hr-timesheet"]
+	path = __oca__/hr-timesheet
+	url = https://github.com/OCA/hr-timesheet.git
+	branch = 12.0
+[submodule "__oca__/knowledge"]
+	path = __oca__/knowledge
+	url = https://github.com/OCA/knowledge.git
+	branch = 12.0
+[submodule "__oca__/management-system"]
+	path = __oca__/management-system
+	url = https://github.com/OCA/management-system.git
+	branch = 12.0
+[submodule "__oca__/manufacture"]
+	path = __oca__/manufacture
+	url = https://github.com/OCA/manufacture.git
+	branch = 12.0
+[submodule "__oca__/manufacture-reporting"]
+	path = __oca__/manufacture-reporting
+	url = https://github.com/OCA/manufacture-reporting.git
+	branch = 12.0
+[submodule "__oca__/multi-company"]
+	path = __oca__/multi-company
+	url = https://github.com/OCA/multi-company.git
+	branch = 12.0
+[submodule "__oca__/partner-contact"]
+	path = __oca__/partner-contact
+	url = https://github.com/OCA/partner-contact.git
+	branch = 12.0
+[submodule "__oca__/project"]
+	path = __oca__/project
+	url = https://github.com/OCA/project.git
+	branch = 12.0
+[submodule "project-reporting"]
+	path = __oca__/project-reporting
+	url = https://github.com/OCA/project-reporting.git
+	branch = 12.0
+[submodule "__oca__/project-agile"]
+	path = __oca__/project-agile
+	url = https://github.com/OCA/project-agile.git
+	branch = 12.0
+[submodule "__oca__/reporting-engine"]
+	path = __oca__/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 12.0
+[submodule "__oca__/purchase-workflow"]
+	path = __oca__/purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = 12.0
+[submodule "__oca__/purchase-reporting"]
+	path = __oca__/purchase-reporting
+	url = https://github.com/OCA/purchase-reporting.git
+	branch = 12.0
+[submodule "__oca__/sale-workflow"]
+	path = __oca__/sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+	branch = 12.0
+[submodule "__oca__/sale-reporting"]
+	path = __oca__/sale-reporting
+	url = https://github.com/OCA/sale-reporting.git
+	branch = 12.0
+[submodule "__oca__/sale-financial"]
+	path = __oca__/sale-financial
+	url = https://github.com/OCA/sale-financial.git
+	branch = 12.0
+[submodule "__oca__/pos"]
+	path = __oca__/pos
+	url = https://github.com/OCA/pos.git
+	branch = 12.0
+[submodule "__oca__/product-attribute"]
+	path = __oca__/product-attribute
+	url = https://github.com/OCA/product-attribute.git
+	branch = 12.0
+[submodule "__oca__/product-variant"]
+	path = __oca__/product-variant
+	url = https://github.com/OCA/product-variant.git
+	branch = 12.0
+[submodule "__oca__/product-kitting"]
+	path = __oca__/product-kitting
+	url = https://github.com/OCA/product-kitting.git
+	branch = 12.0
+[submodule "__oca__/server-tools"]
+	path = __oca__/server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 12.0
+[submodule "__oca__/server-auth"]
+	path = __oca__/server-auth
+	url = https://github.com/OCA/server-auth.git
+	branch = 12.0
+[submodule "__oca__/server-ux"]
+	path = __oca__/server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 12.0
+[submodule "__oca__/server-env"]
+	path = __oca__/server-env
+	url = https://github.com/OCA/server-env.git
+	branch = 12.0
+[submodule "__oca__/server-backend"]
+	path = __oca__/server-backend
+	url = https://github.com/OCA/server-backend.git
+	branch = 12.0
+[submodule "__oca__/server-brand"]
+	path = __oca__/server-brand
+	url = https://github.com/OCA/server-brand.git
+	branch = 12.0
+[submodule "__oca__/social"]
+	path = __oca__/social
+	url = https://github.com/OCA/social.git
+	branch = 12.0
+[submodule "__oca__/stock-logistics-warehouse"]
+	path = __oca__/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = 12.0
+[submodule "__oca__/stock-logistics-workflow"]
+	path = __oca__/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = 12.0
+[submodule "__oca__/stock-logistics-barcode"]
+	path = __oca__/stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+	branch = 12.0
+[submodule "__oca__/stock-logistics-tracking"]
+	path = __oca__/stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking.git
+	branch = 12.0
+[submodule "__oca__/stock-logistics-reporting"]
+	path = __oca__/stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting.git
+	branch = 12.0
+[submodule "__oca__/stock-logistics-transport"]
+	path = __oca__/stock-logistics-transport
+	url = https://github.com/OCA/stock-logistics-transport.git
+	branch = 12.0
+[submodule "__oca__/vertical-association"]
+	path = __oca__/vertical-association
+	url = https://github.com/OCA/vertical-association.git
+	branch = 12.0
+[submodule "__oca__/website-cms"]
+	path = __oca__/website-cms
+	url = https://github.com/OCA/website-cms.git
+	branch = 12.0
+[submodule "__oca__/webkit-tools"]
+	path = __oca__/webkit-tools
+	url = https://github.com/OCA/webkit-tools.git
+	branch = 12.0
+[submodule "__oca__/website"]
+	path = __oca__/website
+	url = https://github.com/OCA/website.git
+	branch = 12.0
+[submodule "__oca__/web"]
+	path = __oca__/web
+	url = https://github.com/OCA/web.git
+	branch = 12.0
+[submodule "__oca__/field-service"]
+	path = __oca__/field-service
+	url = https://github.com/OCA/field-service.git
+	branch = 12.0
+[submodule "__oca__/mis-builder"]
+	path = __oca__/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 12.0
+[submodule "__oca__/vertical-hotel"]
+	path = __oca__/vertical-hotel
+	url = https://github.com/OCA/vertical-hotel.git
+	branch = 12.0
+[submodule "__oca__/data-protection"]
+	path = __oca__/data-protection
+	url = https://github.com/OCA/data-protection.git
+	branch = 12.0
+[submodule "__oca__/rest-framework"]
+	path = __oca__/rest-framework
+	url = https://github.com/OCA/rest-framework.git
+	branch = 12.0
+[submodule "__oca__/report-print-send"]
+	path = __oca__/report-print-send
+	url = https://github.com/OCA/report-print-send.git
+	branch = 12.0
+[submodule "__oca__/connector"]
+	path = __oca__/connector
+	url = https://github.com/OCA/connector.git
+	branch = 12.0
+[submodule "__oca__/apps-store"]
+	path = __oca__/apps-store
+	url = https://github.com/OCA/apps-store.git
+	branch = 12.0
+[submodule "__oca__/website-themes"]
+	path = __oca__/website-themes
+	url = https://github.com/OCA/website-themes.git
+	branch = 12.0
